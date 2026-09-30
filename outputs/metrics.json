@@ -1,0 +1,19 @@
+{
+  "target": "queen",
+  "target_occurrences": 74,
+  "nonspace_tokens": 34533,
+  "wordlike_tokens": 27216,
+  "sentences": 1521,
+  "nodes": 30,
+  "edges": 36,
+  "direct_nodes": 14,
+  "secondary_nodes": 15,
+  "dependency_instances": 121,
+  "directed_density": 0.041379310344827586,
+  "layer_constrained_density": 0.16071428571428573,
+  "weak_components": 1,
+  "strong_components": 30,
+  "is_dag": true,
+  "communities": 4,
+  "weighted_modularity": 0.3175671060719896
+}
