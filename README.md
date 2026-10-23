@@ -13,6 +13,7 @@ The project uses the manually annotated `rlc-goat` sheet from `rlc annotated`, b
 - `prepositions_analysis.ipynb`: analysis, tables, plots and conclusions.
 - `rlc-goat.csv`: input data, to be added separately.
 - `README.md`: project description and instructions.
+- `Project Proposal.md`: the original project proposal uploaded for HW2.
 
 ## Results
 
